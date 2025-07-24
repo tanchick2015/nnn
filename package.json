@@ -1,7 +1,7 @@
 {
   "name": "n8n-custom",
   "dependencies": {
-    "n8n": "1.102.4",
-    "n8n-nodes-base": "3.13.1"
+    "n8n": "1.100.1",
+    "n8n-nodes-base": "1.100.1"
   }
 }
